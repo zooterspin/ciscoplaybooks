@@ -1,6 +1,7 @@
 ---
 
-- name: Cisco show version example  
+- name: Cisco show version example
+  hosts: SYD5PE
   gather_facts: False
 
   tasks:
