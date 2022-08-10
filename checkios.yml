@@ -1,7 +1,6 @@
 ---
 
-- name: Cisco show version example
-  hosts: pe-g17-1
+- name: Cisco show version example  
   gather_facts: False
 
   tasks:
